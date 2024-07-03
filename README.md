@@ -29,7 +29,7 @@ Southern Water Corp., an Israeli water desalination company, is experiencing inc
 
 Due to increasing agricultural and residential water demand, Southern Water Corp maximized its desalination plants' output, boosting revenue. However, SWC aims to avoid unsustainable cost increases. Economic factors significantly impact SWC, which operates in a competitive open water market where water is traded by mega-liters at the Water Market Balancing Price (WMBP). The WMBP fluctuates with supply and demand, necessitating an understanding of market demand to optimize revenue opportunities. Additionally, SWC's desalination plants must be cost-effective; otherwise, customers will prefer cheaper alternatives from competitors.
 
-### [Part 2. South Water Corp Economic Case Study]
+### [Part 2. South Water Corp Economic Case Study](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study/Part%202.%20Southern%20Water%20Corp%20Economics%20Case%20Study.xlsx)
 
 ### Economic Market Analysis:
 - Discovered trends in monthly Average Water Balancing Price (WBMP) and average quantities of water demanded across 12 months. 
