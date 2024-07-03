@@ -1,7 +1,7 @@
 # Welcome to my Online Bootcamp Projects Portfolio! 
 This repository showcases a curated selection of projects completed during an intensive online bootcamp (USF Data Analytics Bootcamp), serving as a comprehensive portfolio of my work. Each project highlights key skills and concepts in data analysis, demonstrating my ability to tackle real-world problems with effective solutions. This ReadMe file contains the goals and steps taken to tackle each project in this repository. I invite you to explore my work and see firsthand the capabilities and knowledge I bring to the table.
 
-## [Southern Water Corp Financial Case Study Gabriela Fernandez.xlsx](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study%20Gabriela%20Fernandez.xlsx)
+## [Southern Water Corp Financial Case Study Gabriela Fernandez.xlsx](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study/Part%201.%20Presentation-%20Southern%20Water%20Corp%20Financial%20Case%20Study%20Gabriela%20Fernandez.pptx)
 
 ### Revenue Analysis: 
 - Discovered trends in monthly revenue per plant across 12 months. 
