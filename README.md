@@ -46,5 +46,5 @@ Due to increasing agricultural and residential water demand, Southern Water Corp
 - Identified highest and lowest performing quarters. 
 - Recommended best quarter for future maintenance shutdown. 
 
-### [Part 1. Presentation- Southern Water Corp Financial Case Study Gabriela Fernandez.pptx]
+### [Part 1. Presentation- Southern Water Corp Financial Case Study Gabriela Fernandez.pptx](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study/Part%202.%20Presentation%20Southern%20Water%20Corp%20Economics.pptx)
 - Findings in a PowerPoint presentation.
