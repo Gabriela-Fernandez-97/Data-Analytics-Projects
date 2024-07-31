@@ -48,3 +48,22 @@ Due to increasing agricultural and residential water demand, Southern Water Corp
 
 ### [Part 2. Presentation- Southern Water Corp Financial Case Study Gabriela Fernandez.pptx](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study/Part%202.%20Presentation%20Southern%20Water%20Corp%20Economics.pptx)
 - Findings in a PowerPoint presentation.
+
+**Part 3. Project Summary**:
+
+You helped Southern Water Corp improve their understanding of financial and economic performance across three desalination units: Kootha, Surjek, and Jutik. You identified Surjek as the most expensive water producer due to high maintenance costs from failing desalination pumps. The Engineering Team, responsible for maintaining all three units, is stretched thin and unable to monitor data continuously. To assist, create a data-driven alarm system to detect pump failures. Using inferential statistics, analyze data, establish correlations, and develop a multiple regression equation to simulate pump failure. This proactive Statistical Data Alarm will notify engineers when to check Surjek’s pump performance.
+
+### [Part 3. Southern Water Corp Descriptive and Inferential Statistics](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study/Part%203.%20Southern%20Water%20Corp%20Descriptive%20and%20Inferential%20Statistics.xlsx)
+
+### Descriptive Statistics Analysis:
+- Discovered trends using line plots
+- Plotted Rolling Stdev and Rolling Means
+- Created and analyzed box plots to identify variability
+  
+### Inferential Statistics Analysis:
+- Created correlated heat lamps
+- Identified variables related to Pump Failure
+- Used regressive equation to create a statistical alarm for Pump Failure. 
+
+### [Part 3. Presentation- Southern Water Corp Descriptive and Inferential Statistics](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study/Part%203.%20Presentation-%20Southern%20Water%20Corp%20Descriptive%20and%20Inferential%20Statisitcs.pptx)
+- Findings in a PowerPoint presentation.
