@@ -67,3 +67,31 @@ You helped Southern Water Corp improve their understanding of financial and econ
 
 ### [Part 3. Presentation- Southern Water Corp Descriptive and Inferential Statistics](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Southern%20Water%20Corp%20Financial%20Case%20Study/Part%203.%20Presentation-%20Southern%20Water%20Corp%20Descriptive%20and%20Inferential%20Statisitcs.pptx)
 - Findings in a PowerPoint presentation.
+
+
+
+## ChemCorp Case Study (Tableau)
+
+**Project Summary**:
+
+ChemCorp, a leading chemical producer, has experienced strong market demand, averaging 7% annual growth, leading to expansions across 48 states. Despite this, increased competition from startups using advanced technologies like machine learning and AI has become a concern. Five long-term customers, representing about 10% of sales revenue, have recently switched providers, prompting ChemCorp to take immediate action. 
+A team from Commercial, Strategy, and Business Analytics was formed to address this issue and prevent further market share loss, which could undermine management's credibility and affect dividend payments. ChemCorp’s portfolio includes six industries (Aerospace Defence, Biotechnology, Machinery and Industrial Goods, Medical Equipment, Paper and Packaging, Pharmaceuticals) and eleven chemical products (including specialty chemicals A, G, and J).
+Management's high-level problem statement is focused on preventing future market share loss by identifying growth industries and potential divestment products.
+
+### [ChemCorp Inc. Case Study Tableau Workbook](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/Chem%20Corp%20Case%20Study/ChemCorp%20Inc.%20Case%20Study.twbx)
+[See on Tableau Public](https://public.tableau.com/app/profile/gabriela.fernandez8886/viz/ChemCorpInc_CaseStudy_17199753341940/ChemCorpDataAnalysis)
+
+### Customer Strategy Analysis: 
+- Identified Customers per industry
+- Identified top chemicals sold
+- Analyzed Geospatial distribution of sales
+  
+### Market Opportunity Analysis: 
+- Profit margins per industry
+- Profit margins per customer
+  
+### Divestment Analysis:
+- Identified lease profitable chemical
+- Identified least profitable customers
+
+
