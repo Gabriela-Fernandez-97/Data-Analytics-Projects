@@ -1,6 +1,25 @@
 # Welcome to my Online Bootcamp Projects Portfolio! 
 This repository showcases a curated selection of projects completed during an intensive online bootcamp (USF Data Analytics Bootcamp), serving as a comprehensive portfolio of my work. Each project highlights key skills and concepts in data analysis, demonstrating my ability to tackle real-world problems with effective solutions. This ReadMe file contains the goals and steps taken to tackle each project in this repository. I invite you to explore my work and see firsthand the capabilities and knowledge I bring to the table.
 
+## American Energy Market Regulator Case Study (SQL and Tableau) 
+
+**Project Summary**:
+
+The American Energy Market Regulator (AEMR) oversees the reliability of the USA's domestic energy network, minimizing disruptions known as outages. Of the four types of outages, the AEMR penalizes only forced outages, as they can threaten network reliability if energy supply cannot meet demand.
+Recently, the AEMR has noted an increase in outage submissions for 2016 and 2017. The management team has two primary concerns, energy stability and market outages, and energy losses and market reliability. As an analyst, you are tasked with addressing these concerns by using SQL  and Tableau to extract and analyze relevant data, answering queries, and providing additional insights for the management team.
+
+### [Part 1. AEMR_SQL_Case_Study (SQL Jupyter Notebook)](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/American%20Energy%20Market%20Regulator%20Case%20Study/Part%201.%20AEMR_SQL_Case_Study.ipynb)
+
+- COUNT(*) :Counted all outages by year and month
+- AVG: Calculated Average outage duration per plant, per year
+- SQL Filtering 
+- Identified high risk plants
+
+### [Part 2. Tableau Workbook. AEMR Case Study](https://github.com/Gabriela-Fernandez-97/Data-Analytics-Projects/blob/main/American%20Energy%20Market%20Regulator%20Case%20Study/Part%202.%20Tableau%20Workbook-%20AEMR_Case_Study.twbx)
+
+[See presentation on Tableau Public](https://public.tableau.com/app/profile/gabriela.fernandez8886/viz/AEMR_17147611361410/Story1)
+
+
 ## ChemCorp Case Study (Tableau)
 
 **Project Summary**:
